@@ -1,6 +1,6 @@
 # 👋 Hello there 
 
-- Currently learning Python
+- Currently learning Javascript
 - My favorite project for now is [Pedra-papel-tesoura-lagarto-spock](https://github.com/Rubens5405/Pedra-papel-tesoura-lagarto-spock)
 - Big fan of Newgrounds and Flash games and would like to work on a real project someday
 - I plan to update this README as time goes on
